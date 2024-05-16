@@ -1,0 +1,11 @@
+,params,mean_test_score,rank_test_score
+0,"{'n_estimators': 500, 'max_features': 5, 'max_depth': 5, 'criterion': 'entropy'}",0.6298076923076923,4
+1,"{'n_estimators': 100, 'max_features': 20, 'max_depth': 5, 'criterion': 'entropy'}",0.6201923076923077,7
+2,"{'n_estimators': 800, 'max_features': 20, 'max_depth': 1, 'criterion': 'gini'}",0.48269230769230764,10
+3,"{'n_estimators': 800, 'max_features': 8, 'max_depth': 5, 'criterion': 'gini'}",0.625,6
+4,"{'n_estimators': 1000, 'max_features': 12, 'max_depth': 20, 'criterion': 'entropy'}",0.6942307692307692,1
+5,"{'n_estimators': 600, 'max_features': 16, 'max_depth': 20, 'criterion': 'entropy'}",0.6942307692307692,1
+6,"{'n_estimators': 100, 'max_features': 8, 'max_depth': 5, 'criterion': 'entropy'}",0.6288461538461538,5
+7,"{'n_estimators': 200, 'max_features': 16, 'max_depth': 1, 'criterion': 'gini'}",0.485576923076923,9
+8,"{'n_estimators': 1000, 'max_features': 20, 'max_depth': 20, 'criterion': 'gini'}",0.685576923076923,3
+9,"{'n_estimators': 100, 'max_features': 20, 'max_depth': 5, 'criterion': 'gini'}",0.6096153846153847,8
